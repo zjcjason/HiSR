@@ -1,3 +1,3 @@
 # HiSR
 
-The code will be open sourced after the paper is accepted
+In the master branch
